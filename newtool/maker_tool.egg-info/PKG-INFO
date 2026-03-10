@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: maker-tool
+Version: 6.0.0
+Summary: A CLI tool to encode and run Java/Python binary scripts.
+Dynamic: summary
